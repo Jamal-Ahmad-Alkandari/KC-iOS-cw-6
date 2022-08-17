@@ -1,16 +1,17 @@
 //
-//  cw5App.swift
-//  cw5
+//  BMIApp.swift
+//  BMI
 //
-//  Created by ... on 23/06/2022.
+//  Created by Jamal Al-kandari on 15/08/2022.
 //
 
 import SwiftUI
 
 @main
-struct cw5App: App {
+struct BMIApp: App {
     var body: some Scene {
         WindowGroup {
+            
             ContentView()
         }
     }
